@@ -1,0 +1,10 @@
+new -> crea un nuevo request.
+.abort()-cancela el request
+.getAllResponseHeaders()-Retorna informacion del header
+.open()-informacion básica del request
+.send() envia el request al servidor
+.setRequestheader agrega valores al header que se desea emnviar
+
+
+post enviar e intercambia informacion con el servidor
+get se utiliza para obtener informacion al servidor
